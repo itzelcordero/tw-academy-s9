@@ -1,3 +1,2 @@
 # tw-academy-s9
-Hola
-Esto es una prueba
+This is the Activity Lesson 9
